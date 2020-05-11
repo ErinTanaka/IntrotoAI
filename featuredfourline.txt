@@ -1,0 +1,2 @@
+back,bad,going,good,hated,it,never,really,was,classlabel0,0,0,1,0,1,0,1,1
+1,1,1,0,1,1,1,0,1

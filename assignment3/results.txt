@@ -1,0 +1,4 @@
+Accuracy: 100%
+files: trainingSet.txt and trainingSet.txt
+Accuracy: 99%
+files: trainingSet.txt and testSet.txt
